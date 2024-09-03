@@ -14,6 +14,7 @@
 		D400AA962C7D37CB0015EC48 /* TutorialPrototypeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D400AA952C7D37CB0015EC48 /* TutorialPrototypeTests.swift */; };
 		D400AAA02C7D37CB0015EC48 /* TutorialPrototypeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D400AA9F2C7D37CB0015EC48 /* TutorialPrototypeUITests.swift */; };
 		D400AAA22C7D37CB0015EC48 /* TutorialPrototypeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D400AAA12C7D37CB0015EC48 /* TutorialPrototypeUITestsLaunchTests.swift */; };
+		D40B5BCF2C8371E000185EF7 /* WeatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40B5BCE2C8371E000185EF7 /* WeatherView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D400AA9B2C7D37CB0015EC48 /* TutorialPrototypeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TutorialPrototypeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D400AA9F2C7D37CB0015EC48 /* TutorialPrototypeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialPrototypeUITests.swift; sourceTree = "<group>"; };
 		D400AAA12C7D37CB0015EC48 /* TutorialPrototypeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialPrototypeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D40B5BCE2C8371E000185EF7 /* WeatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				D400AA862C7D37C90015EC48 /* ContentView.swift */,
 				D400AA882C7D37CB0015EC48 /* Assets.xcassets */,
 				D400AA8A2C7D37CB0015EC48 /* Preview Content */,
+				D40B5BCE2C8371E000185EF7 /* WeatherView.swift */,
 			);
 			path = TutorialPrototype;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D40B5BCF2C8371E000185EF7 /* WeatherView.swift in Sources */,
 				D400AA872C7D37C90015EC48 /* ContentView.swift in Sources */,
 				D400AA852C7D37C90015EC48 /* TutorialPrototypeApp.swift in Sources */,
 			);
